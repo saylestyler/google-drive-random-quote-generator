@@ -1,0 +1,6 @@
+{
+  "name": "Epigraph - Daily Reflections from Your Documents",
+  "description": "Extract, reflect, and rediscover random lines, paragraphs, and sections from your personal Google Docs and Drive library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
